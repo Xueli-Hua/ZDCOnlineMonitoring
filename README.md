@@ -2,7 +2,7 @@
 This contains scripts to run over the 2023 data and plot their results needed for performing the online monitoring of the ZDC. It is divided into the following subdiretories.
 
 ## Python
-The python directory contains the code that can be used to run over the raw data as it comes in. In order to monitor the timing information, please refer to the  `recHitRaw` instructions below. In order to check the unpacker vs. emulation code or the digis, use `l1Ntupele2023.py`. In order to adapt this depending on the run, refer to the [ZDC Online monitoring Twiki](https://twiki.cern.ch/twiki/bin/view/CMS/ZDCRun3OnlineMonitoring).
+The python directory contains the code that can be used to run over the raw data as it comes in. In order to monitor the timing information, please refer to the  `recHitRaw` instructions below. In order to check the unpacker vs. emulation code or the digis, use `l1Ntupele2023.py`. In order to adapt this depending on the run, refer to the [ZDC Online monitoring Twiki](https://twiki.cern.ch/twiki/bin/view/CMS/ZDCRun3OnlineMonitoring). and [ZDC Software](https://twiki.cern.ch/twiki/bin/viewauth/CMS/ZDCSoftwareHome)
 
 
 ## recHitRAW (src)
